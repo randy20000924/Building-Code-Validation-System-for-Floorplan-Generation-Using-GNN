@@ -1,0 +1,15 @@
+beautifulsoup4==4.13.3
+easyocr==1.7.2
+fitz==0.0.1.dev2
+matplotlib==3.10.1
+numpy==1.23.5
+ollama==0.4.7
+pandas==2.2.3
+pdfplumber==0.11.5
+Pillow==11.1.0
+rank_bm25==0.2.2
+Requests==2.32.3
+scikit_learn==1.6.1
+sentence_transformers==3.4.1
+torch==2.6.0
+tqdm==4.67.1

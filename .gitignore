@@ -1,0 +1,35 @@
+# 忽略 Python 編譯後的暫存檔
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略虛擬環境資料夾（常見名稱）
+venv/
+env/
+.venv/
+.env/
+
+# 忽略 pip 安裝記錄
+pip-log.txt
+
+# 忽略 Jupyter Notebook 的 checkpoints
+.ipynb_checkpoints/
+
+# 忽略 IDE/編輯器的設定檔（如 VS Code）
+.vscode/
+.idea/
+
+# 忽略安裝的依賴資料夾（如果不是用 requirements.txt 管理）
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# 忽略 test coverage 檔案
+.coverage
+htmlcov/
+
+# 忽略系統檔案
+.DS_Store
+Thumbs.db
+Data/
