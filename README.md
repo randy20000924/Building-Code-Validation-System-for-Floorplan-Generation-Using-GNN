@@ -1,4 +1,5 @@
 🏗️ Building Code Validation System for Floorplan Generation Using GNN
+
 This project aims to validate architectural floorplans against building codes using a Graph Neural Network (GNN)-based model. By encoding spatial and semantic relationships between rooms, we enable intelligent verification of constraints such as adjacency, accessibility, and required feature presence.
 
 📌 Motivation
